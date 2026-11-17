@@ -1,0 +1,1 @@
+这是一个renpy的简单Displayable, 用于创建蓄力按钮
